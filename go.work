@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./chan_context_interface
 	./chat_roulette
 	./example
 	./examples
