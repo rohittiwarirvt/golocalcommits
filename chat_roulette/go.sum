@@ -1,0 +1,7 @@
+github.com/longda/markov v0.0.0-20141124033712-50a461b932b1 h1:kZj79/IIksE3dRNdPn0KskOeCral/774RimiaVtJkbA=
+github.com/longda/markov v0.0.0-20141124033712-50a461b932b1/go.mod h1:3t+WGEgghc8MpgccChGnAad84lDFcQawxIsHYkOP1wM=
+github.com/mb-14/gomarkov v0.0.0-20210216094942-a5b484cc0243 h1:F0IAcxxFNzC8/HOxI5Q2hpsWAoGdy+lGMjoVyrcMeSw=
+github.com/mb-14/gomarkov v0.0.0-20210216094942-a5b484cc0243/go.mod h1:5F3Y03oxWIyMq3Wa4AxU544RYnXNZwHBfqpDpdLibBY=
+github.com/montanaflynn/stats v0.6.3/go.mod h1:wL8QJuTMNUDYhXwkmfOly8iTdp5TEcJFWZD2D7SIkUc=
+golang.org/x/net v0.4.0 h1:Q5QPcMlvfxFTAPV0+07Xz/MpK9NTXu2VDUuy0FeMfaU=
+golang.org/x/net v0.4.0/go.mod h1:MBQ8lrhLObU/6UmLb4fmbmk5OcyYmqtbGd/9yIeKjEE=
