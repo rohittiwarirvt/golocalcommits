@@ -1,0 +1,24 @@
+go 1.19
+
+use (
+	./channel
+	./ekey
+	./errgrp
+	./errorgo
+	./goclosureseg
+	./godevkit
+	./goroutineV1
+	./goroutines
+	./greetings
+	./hello
+	./kms
+	./methods
+	./profilesvc
+	./promise
+	./selectgo
+	./stringsvc1
+	./stringsvc2
+	./stringutil
+	./waitgroup
+	./welcomeguy
+)
